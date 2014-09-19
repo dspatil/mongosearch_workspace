@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MongoMapReduce", "MongoMapReduce\MongoMapReduce.csproj", "{AE76E240-8416-40AF-BFAF-F2B12EAD9794}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MapReduce.UnitTestProject", "MapReduce.UnitTestProject\MapReduce.UnitTestProject.csproj", "{2541D4D7-FFA3-41BE-A1BC-ECA5FEA3184F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MongoSearch", "MongoSearch\MongoSearch.csproj", "{8D87F156-70FA-4300-90B4-EDC63CCEC216}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE76E240-8416-40AF-BFAF-F2B12EAD9794}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE76E240-8416-40AF-BFAF-F2B12EAD9794}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE76E240-8416-40AF-BFAF-F2B12EAD9794}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE76E240-8416-40AF-BFAF-F2B12EAD9794}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2541D4D7-FFA3-41BE-A1BC-ECA5FEA3184F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2541D4D7-FFA3-41BE-A1BC-ECA5FEA3184F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2541D4D7-FFA3-41BE-A1BC-ECA5FEA3184F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2541D4D7-FFA3-41BE-A1BC-ECA5FEA3184F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D87F156-70FA-4300-90B4-EDC63CCEC216}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D87F156-70FA-4300-90B4-EDC63CCEC216}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D87F156-70FA-4300-90B4-EDC63CCEC216}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D87F156-70FA-4300-90B4-EDC63CCEC216}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

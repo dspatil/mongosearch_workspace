@@ -1,0 +1,11 @@
+C:\Users\dpatil\Documents\Visual Studio 2012\Projects\MongoMapReduce\MapReduce.UnitTestProject\bin\Debug\MongoDB.Driver.dll
+C:\Users\dpatil\Documents\Visual Studio 2012\Projects\MongoMapReduce\MapReduce.UnitTestProject\bin\Debug\MongoDB.Bson.dll
+C:\Users\dpatil\Documents\Visual Studio 2012\Projects\MongoMapReduce\MapReduce.UnitTestProject\bin\Debug\MongoSearch.pdb
+C:\Users\dpatil\Documents\Visual Studio 2012\Projects\MongoMapReduce\MapReduce.UnitTestProject\bin\Debug\MongoMapReduce.dll
+C:\Users\dpatil\Documents\Visual Studio 2012\Projects\MongoMapReduce\MapReduce.UnitTestProject\bin\Debug\MongoSearch.dll
+C:\Users\dpatil\Documents\Visual Studio 2012\Projects\MongoMapReduce\MapReduce.UnitTestProject\bin\Debug\MongoMapReduce.pdb
+C:\Users\dpatil\Documents\Visual Studio 2012\Projects\MongoMapReduce\MapReduce.UnitTestProject\bin\Debug\MongoDB.Driver.xml
+C:\Users\dpatil\Documents\Visual Studio 2012\Projects\MongoMapReduce\MapReduce.UnitTestProject\bin\Debug\MongoDB.Bson.xml
+C:\Users\dpatil\Documents\Visual Studio 2012\Projects\MongoMapReduce\MapReduce.UnitTestProject\obj\Debug\MapReduce.UnitTestProject.csprojResolveAssemblyReference.cache
+C:\Users\dpatil\Documents\Visual Studio 2012\Projects\MongoMapReduce\MapReduce.UnitTestProject\obj\Debug\MapReduce.UnitTestProject.dll
+C:\Users\dpatil\Documents\Visual Studio 2012\Projects\MongoMapReduce\MapReduce.UnitTestProject\obj\Debug\MapReduce.UnitTestProject.pdb

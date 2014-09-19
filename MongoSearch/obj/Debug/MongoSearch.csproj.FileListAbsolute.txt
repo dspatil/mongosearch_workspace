@@ -1,0 +1,9 @@
+C:\Users\dpatil\Documents\Visual Studio 2012\Projects\MongoMapReduce\MongoSearch\bin\Debug\MongoSearch.dll.config
+C:\Users\dpatil\Documents\Visual Studio 2012\Projects\MongoMapReduce\MongoSearch\bin\Debug\MongoSearch.dll
+C:\Users\dpatil\Documents\Visual Studio 2012\Projects\MongoMapReduce\MongoSearch\bin\Debug\MongoSearch.pdb
+C:\Users\dpatil\Documents\Visual Studio 2012\Projects\MongoMapReduce\MongoSearch\bin\Debug\MongoDB.Bson.dll
+C:\Users\dpatil\Documents\Visual Studio 2012\Projects\MongoMapReduce\MongoSearch\bin\Debug\MongoDB.Driver.dll
+C:\Users\dpatil\Documents\Visual Studio 2012\Projects\MongoMapReduce\MongoSearch\bin\Debug\MongoDB.Bson.xml
+C:\Users\dpatil\Documents\Visual Studio 2012\Projects\MongoMapReduce\MongoSearch\bin\Debug\MongoDB.Driver.xml
+C:\Users\dpatil\Documents\Visual Studio 2012\Projects\MongoMapReduce\MongoSearch\obj\Debug\MongoSearch.dll
+C:\Users\dpatil\Documents\Visual Studio 2012\Projects\MongoMapReduce\MongoSearch\obj\Debug\MongoSearch.pdb
